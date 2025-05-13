@@ -7801,11 +7801,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RajeshM\\Desktop\\cldv part 2\\EventSystem\\EventSystem.csproj",
+      "projectUniqueName": "C:\\Users\\RajeshM\\Documents\\cldv6211-part-2-ST10259834-Aaryan-Makan\\EventSystem\\EventSystem.csproj",
       "projectName": "EventSystem",
-      "projectPath": "C:\\Users\\RajeshM\\Desktop\\cldv part 2\\EventSystem\\EventSystem.csproj",
+      "projectPath": "C:\\Users\\RajeshM\\Documents\\cldv6211-part-2-ST10259834-Aaryan-Makan\\EventSystem\\EventSystem.csproj",
       "packagesPath": "C:\\Users\\RajeshM\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RajeshM\\Desktop\\cldv part 2\\EventSystem\\obj\\",
+      "outputPath": "C:\\Users\\RajeshM\\Documents\\cldv6211-part-2-ST10259834-Aaryan-Makan\\EventSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

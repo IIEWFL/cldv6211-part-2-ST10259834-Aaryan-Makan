@@ -1,73 +1,73 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\RajeshM\\Desktop\\cldv part 2\\EventSystem\\",
+  "WorkspaceRootPath": "C:\\Users\\RajeshM\\Documents\\cldv6211-part-2-ST10259834-Aaryan-Makan\\EventSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|c:\\users\\rajeshm\\desktop\\cldv part 2\\eventsystem\\views\\booking\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|solutionrelative:views\\booking\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|c:\\users\\rajeshm\\desktop\\cldv part 2\\eventsystem\\views\\venue\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|solutionrelative:views\\venue\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|c:\\users\\rajeshm\\desktop\\cldv part 2\\eventsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|c:\\users\\rajeshm\\desktop\\cldv part 2\\eventsystem\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|c:\\users\\rajeshm\\documents\\cldv6211-part-2-st10259834-aaryan-makan\\eventsystem\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|solutionrelative:models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|c:\\users\\rajeshm\\desktop\\cldv part 2\\eventsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|c:\\users\\rajeshm\\documents\\cldv6211-part-2-st10259834-aaryan-makan\\eventsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|c:\\users\\rajeshm\\documents\\cldv6211-part-2-st10259834-aaryan-makan\\eventsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|c:\\users\\rajeshm\\desktop\\cldv part 2\\eventsystem\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|c:\\users\\rajeshm\\documents\\cldv6211-part-2-st10259834-aaryan-makan\\eventsystem\\views\\booking\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|solutionrelative:views\\booking\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|c:\\users\\rajeshm\\documents\\cldv6211-part-2-st10259834-aaryan-makan\\eventsystem\\views\\venue\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|solutionrelative:views\\venue\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|c:\\users\\rajeshm\\documents\\cldv6211-part-2-st10259834-aaryan-makan\\eventsystem\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|solutionrelative:controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|c:\\users\\rajeshm\\desktop\\cldv part 2\\eventsystem\\views\\event\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|c:\\users\\rajeshm\\documents\\cldv6211-part-2-st10259834-aaryan-makan\\eventsystem\\views\\event\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|solutionrelative:views\\event\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|c:\\users\\rajeshm\\desktop\\cldv part 2\\eventsystem\\models\\bookingview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|c:\\users\\rajeshm\\documents\\cldv6211-part-2-st10259834-aaryan-makan\\eventsystem\\models\\bookingview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|solutionrelative:models\\bookingview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|c:\\users\\rajeshm\\desktop\\cldv part 2\\eventsystem\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|c:\\users\\rajeshm\\documents\\cldv6211-part-2-st10259834-aaryan-makan\\eventsystem\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|solutionrelative:views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|c:\\users\\rajeshm\\desktop\\cldv part 2\\eventsystem\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|c:\\users\\rajeshm\\documents\\cldv6211-part-2-st10259834-aaryan-makan\\eventsystem\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|solutionrelative:controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|c:\\users\\rajeshm\\desktop\\cldv part 2\\eventsystem\\views\\booking\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|c:\\users\\rajeshm\\documents\\cldv6211-part-2-st10259834-aaryan-makan\\eventsystem\\views\\booking\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|solutionrelative:views\\booking\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|c:\\users\\rajeshm\\desktop\\cldv part 2\\eventsystem\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|c:\\users\\rajeshm\\documents\\cldv6211-part-2-st10259834-aaryan-makan\\eventsystem\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|solutionrelative:models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|c:\\users\\rajeshm\\desktop\\cldv part 2\\eventsystem\\controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|c:\\users\\rajeshm\\documents\\cldv6211-part-2-st10259834-aaryan-makan\\eventsystem\\controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|solutionrelative:controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|c:\\users\\rajeshm\\desktop\\cldv part 2\\eventsystem\\models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|c:\\users\\rajeshm\\documents\\cldv6211-part-2-st10259834-aaryan-makan\\eventsystem\\models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|solutionrelative:models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|c:\\users\\rajeshm\\desktop\\cldv part 2\\eventsystem\\views\\venue\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|c:\\users\\rajeshm\\documents\\cldv6211-part-2-st10259834-aaryan-makan\\eventsystem\\views\\venue\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|solutionrelative:views\\venue\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|c:\\users\\rajeshm\\desktop\\cldv part 2\\eventsystem\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|c:\\users\\rajeshm\\documents\\cldv6211-part-2-st10259834-aaryan-makan\\eventsystem\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|c:\\users\\rajeshm\\desktop\\cldv part 2\\eventsystem\\data\\eventsystemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|c:\\users\\rajeshm\\documents\\cldv6211-part-2-st10259834-aaryan-makan\\eventsystem\\data\\eventsystemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{077323EA-5CC3-4D0D-9479-D597CF2C6CF0}|EventSystem.csproj|solutionrelative:data\\eventsystemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -78,15 +78,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Event.cs",
-              "DocumentMoniker": "C:\\Users\\RajeshM\\Desktop\\cldv part 2\\EventSystem\\Models\\Event.cs",
+              "DocumentMoniker": "C:\\Users\\RajeshM\\Documents\\cldv6211-part-2-ST10259834-Aaryan-Makan\\EventSystem\\Models\\Event.cs",
               "RelativeDocumentMoniker": "Models\\Event.cs",
-              "ToolTip": "C:\\Users\\RajeshM\\Desktop\\cldv part 2\\EventSystem\\Models\\Event.cs",
+              "ToolTip": "C:\\Users\\RajeshM\\Documents\\cldv6211-part-2-ST10259834-Aaryan-Makan\\EventSystem\\Models\\Event.cs",
               "RelativeToolTip": "Models\\Event.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -95,11 +95,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\RajeshM\\Desktop\\cldv part 2\\EventSystem\\Views\\Booking\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\RajeshM\\Documents\\cldv6211-part-2-ST10259834-Aaryan-Makan\\EventSystem\\Views\\Booking\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Booking\\Create.cshtml",
-              "ToolTip": "C:\\Users\\RajeshM\\Desktop\\cldv part 2\\EventSystem\\Views\\Booking\\Create.cshtml",
+              "ToolTip": "C:\\Users\\RajeshM\\Documents\\cldv6211-part-2-ST10259834-Aaryan-Makan\\EventSystem\\Views\\Booking\\Create.cshtml",
               "RelativeToolTip": "Views\\Booking\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -108,39 +108,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\RajeshM\\Desktop\\cldv part 2\\EventSystem\\Views\\Venue\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\RajeshM\\Documents\\cldv6211-part-2-ST10259834-Aaryan-Makan\\EventSystem\\Views\\Venue\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Venue\\Create.cshtml",
-              "ToolTip": "C:\\Users\\RajeshM\\Desktop\\cldv part 2\\EventSystem\\Views\\Venue\\Create.cshtml",
+              "ToolTip": "C:\\Users\\RajeshM\\Documents\\cldv6211-part-2-ST10259834-Aaryan-Makan\\EventSystem\\Views\\Venue\\Create.cshtml",
               "RelativeToolTip": "Views\\Venue\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-13T11:34:51.452Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T11:34:51.452Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "BookingController.cs",
-              "DocumentMoniker": "C:\\Users\\RajeshM\\Desktop\\cldv part 2\\EventSystem\\Controllers\\BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\RajeshM\\Documents\\cldv6211-part-2-ST10259834-Aaryan-Makan\\EventSystem\\Controllers\\BookingController.cs",
               "RelativeDocumentMoniker": "Controllers\\BookingController.cs",
-              "ToolTip": "C:\\Users\\RajeshM\\Desktop\\cldv part 2\\EventSystem\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\RajeshM\\Documents\\cldv6211-part-2-ST10259834-Aaryan-Makan\\EventSystem\\Controllers\\BookingController.cs",
               "RelativeToolTip": "Controllers\\BookingController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T14:34:52.499Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T14:34:52.499Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\RajeshM\\Desktop\\cldv part 2\\EventSystem\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\RajeshM\\Documents\\cldv6211-part-2-ST10259834-Aaryan-Makan\\EventSystem\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\RajeshM\\Desktop\\cldv part 2\\EventSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\RajeshM\\Documents\\cldv6211-part-2-ST10259834-Aaryan-Makan\\EventSystem\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T14:30:00.459Z",
               "EditorCaption": ""
@@ -149,22 +147,21 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\RajeshM\\Desktop\\cldv part 2\\EventSystem\\Views\\Event\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\RajeshM\\Documents\\cldv6211-part-2-ST10259834-Aaryan-Makan\\EventSystem\\Views\\Event\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Event\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\RajeshM\\Desktop\\cldv part 2\\EventSystem\\Views\\Event\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\RajeshM\\Documents\\cldv6211-part-2-ST10259834-Aaryan-Makan\\EventSystem\\Views\\Event\\Delete.cshtml",
               "RelativeToolTip": "Views\\Event\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-13T14:17:38.95Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T14:17:38.95Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\RajeshM\\Desktop\\cldv part 2\\EventSystem\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\RajeshM\\Documents\\cldv6211-part-2-ST10259834-Aaryan-Makan\\EventSystem\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\RajeshM\\Desktop\\cldv part 2\\EventSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\RajeshM\\Documents\\cldv6211-part-2-ST10259834-Aaryan-Makan\\EventSystem\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -175,22 +172,21 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "BookingView.cs",
-              "DocumentMoniker": "C:\\Users\\RajeshM\\Desktop\\cldv part 2\\EventSystem\\Models\\BookingView.cs",
+              "DocumentMoniker": "C:\\Users\\RajeshM\\Documents\\cldv6211-part-2-ST10259834-Aaryan-Makan\\EventSystem\\Models\\BookingView.cs",
               "RelativeDocumentMoniker": "Models\\BookingView.cs",
-              "ToolTip": "C:\\Users\\RajeshM\\Desktop\\cldv part 2\\EventSystem\\Models\\BookingView.cs",
+              "ToolTip": "C:\\Users\\RajeshM\\Documents\\cldv6211-part-2-ST10259834-Aaryan-Makan\\EventSystem\\Models\\BookingView.cs",
               "RelativeToolTip": "Models\\BookingView.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T14:22:02.596Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T14:22:02.596Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "VenueController.cs",
-              "DocumentMoniker": "C:\\Users\\RajeshM\\Desktop\\cldv part 2\\EventSystem\\Controllers\\VenueController.cs",
+              "DocumentMoniker": "C:\\Users\\RajeshM\\Documents\\cldv6211-part-2-ST10259834-Aaryan-Makan\\EventSystem\\Controllers\\VenueController.cs",
               "RelativeDocumentMoniker": "Controllers\\VenueController.cs",
-              "ToolTip": "C:\\Users\\RajeshM\\Desktop\\cldv part 2\\EventSystem\\Controllers\\VenueController.cs",
+              "ToolTip": "C:\\Users\\RajeshM\\Documents\\cldv6211-part-2-ST10259834-Aaryan-Makan\\EventSystem\\Controllers\\VenueController.cs",
               "RelativeToolTip": "Controllers\\VenueController.cs",
               "ViewState": "AgIAAHIBAAAAAAAAAAAuwIcBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -200,9 +196,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\RajeshM\\Desktop\\cldv part 2\\EventSystem\\Views\\Booking\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\RajeshM\\Documents\\cldv6211-part-2-ST10259834-Aaryan-Makan\\EventSystem\\Views\\Booking\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Booking\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\RajeshM\\Desktop\\cldv part 2\\EventSystem\\Views\\Booking\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\RajeshM\\Documents\\cldv6211-part-2-ST10259834-Aaryan-Makan\\EventSystem\\Views\\Booking\\Edit.cshtml",
               "RelativeToolTip": "Views\\Booking\\Edit.cshtml",
               "ViewState": "AgIAACYAAAAAAAAAAAAiwEIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -212,22 +208,21 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\RajeshM\\Desktop\\cldv part 2\\EventSystem\\Views\\Booking\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\RajeshM\\Documents\\cldv6211-part-2-ST10259834-Aaryan-Makan\\EventSystem\\Views\\Booking\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Booking\\Index.cshtml",
-              "ToolTip": "C:\\Users\\RajeshM\\Desktop\\cldv part 2\\EventSystem\\Views\\Booking\\Index.cshtml",
+              "ToolTip": "C:\\Users\\RajeshM\\Documents\\cldv6211-part-2-ST10259834-Aaryan-Makan\\EventSystem\\Views\\Booking\\Index.cshtml",
               "RelativeToolTip": "Views\\Booking\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-13T14:35:15.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T14:35:15.441Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\RajeshM\\Desktop\\cldv part 2\\EventSystem\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "C:\\Users\\RajeshM\\Documents\\cldv6211-part-2-ST10259834-Aaryan-Makan\\EventSystem\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\RajeshM\\Desktop\\cldv part 2\\EventSystem\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\RajeshM\\Documents\\cldv6211-part-2-ST10259834-Aaryan-Makan\\EventSystem\\wwwroot\\css\\site.css",
               "RelativeToolTip": "wwwroot\\css\\site.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -237,9 +232,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Booking.cs",
-              "DocumentMoniker": "C:\\Users\\RajeshM\\Desktop\\cldv part 2\\EventSystem\\Models\\Booking.cs",
+              "DocumentMoniker": "C:\\Users\\RajeshM\\Documents\\cldv6211-part-2-ST10259834-Aaryan-Makan\\EventSystem\\Models\\Booking.cs",
               "RelativeDocumentMoniker": "Models\\Booking.cs",
-              "ToolTip": "C:\\Users\\RajeshM\\Desktop\\cldv part 2\\EventSystem\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\RajeshM\\Documents\\cldv6211-part-2-ST10259834-Aaryan-Makan\\EventSystem\\Models\\Booking.cs",
               "RelativeToolTip": "Models\\Booking.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -249,9 +244,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "EventController.cs",
-              "DocumentMoniker": "C:\\Users\\RajeshM\\Desktop\\cldv part 2\\EventSystem\\Controllers\\EventController.cs",
+              "DocumentMoniker": "C:\\Users\\RajeshM\\Documents\\cldv6211-part-2-ST10259834-Aaryan-Makan\\EventSystem\\Controllers\\EventController.cs",
               "RelativeDocumentMoniker": "Controllers\\EventController.cs",
-              "ToolTip": "C:\\Users\\RajeshM\\Desktop\\cldv part 2\\EventSystem\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\RajeshM\\Documents\\cldv6211-part-2-ST10259834-Aaryan-Makan\\EventSystem\\Controllers\\EventController.cs",
               "RelativeToolTip": "Controllers\\EventController.cs",
               "ViewState": "AgIAAMYAAAAAAAAAAAAiwOkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -261,9 +256,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\RajeshM\\Desktop\\cldv part 2\\EventSystem\\Views\\Venue\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\RajeshM\\Documents\\cldv6211-part-2-ST10259834-Aaryan-Makan\\EventSystem\\Views\\Venue\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Venue\\Index.cshtml",
-              "ToolTip": "C:\\Users\\RajeshM\\Desktop\\cldv part 2\\EventSystem\\Views\\Venue\\Index.cshtml",
+              "ToolTip": "C:\\Users\\RajeshM\\Documents\\cldv6211-part-2-ST10259834-Aaryan-Makan\\EventSystem\\Views\\Venue\\Index.cshtml",
               "RelativeToolTip": "Views\\Venue\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -273,9 +268,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "Venue.cs",
-              "DocumentMoniker": "C:\\Users\\RajeshM\\Desktop\\cldv part 2\\EventSystem\\Models\\Venue.cs",
+              "DocumentMoniker": "C:\\Users\\RajeshM\\Documents\\cldv6211-part-2-ST10259834-Aaryan-Makan\\EventSystem\\Models\\Venue.cs",
               "RelativeDocumentMoniker": "Models\\Venue.cs",
-              "ToolTip": "C:\\Users\\RajeshM\\Desktop\\cldv part 2\\EventSystem\\Models\\Venue.cs",
+              "ToolTip": "C:\\Users\\RajeshM\\Documents\\cldv6211-part-2-ST10259834-Aaryan-Makan\\EventSystem\\Models\\Venue.cs",
               "RelativeToolTip": "Models\\Venue.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwBwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -285,9 +280,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "EventSystemDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\RajeshM\\Desktop\\cldv part 2\\EventSystem\\Data\\EventSystemDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\RajeshM\\Documents\\cldv6211-part-2-ST10259834-Aaryan-Makan\\EventSystem\\Data\\EventSystemDbContext.cs",
               "RelativeDocumentMoniker": "Data\\EventSystemDbContext.cs",
-              "ToolTip": "C:\\Users\\RajeshM\\Desktop\\cldv part 2\\EventSystem\\Data\\EventSystemDbContext.cs",
+              "ToolTip": "C:\\Users\\RajeshM\\Documents\\cldv6211-part-2-ST10259834-Aaryan-Makan\\EventSystem\\Data\\EventSystemDbContext.cs",
               "RelativeToolTip": "Data\\EventSystemDbContext.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAYwBoAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

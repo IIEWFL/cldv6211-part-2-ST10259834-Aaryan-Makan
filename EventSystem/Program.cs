@@ -14,7 +14,7 @@ namespace EventSystem
             builder.Services.AddControllersWithViews();
 
             builder.Services.AddDbContext<EventSystemDbContext>(options =>
-                options.UseSqlServer(builder.Configuration.GetConnectionString("AzureConn")));
+                options.UseSqlServer(builder.Configuration.GetConnectionString("LocalConn")));
 
             // Add logging services
             builder.Services.AddLogging(logging =>

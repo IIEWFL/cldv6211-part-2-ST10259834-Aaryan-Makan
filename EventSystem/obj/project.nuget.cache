@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kwnfh4GLPGk=",
+  "dgSpecHash": "xdsD+BxzCKM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\RajeshM\\Desktop\\cldv part 2\\EventSystem\\EventSystem.csproj",
+  "projectFilePath": "C:\\Users\\RajeshM\\Documents\\cldv6211-part-2-ST10259834-Aaryan-Makan\\EventSystem\\EventSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RajeshM\\.nuget\\packages\\azure.core\\1.44.1\\azure.core.1.44.1.nupkg.sha512",
     "C:\\Users\\RajeshM\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
