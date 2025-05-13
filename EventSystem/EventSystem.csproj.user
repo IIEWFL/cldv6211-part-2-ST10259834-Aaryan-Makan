@@ -12,6 +12,6 @@
     <WebStackScaffolding_DbContextTypeFullName>EventSystem.Data.EventSystemDbContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
     <WebStackScaffolding_IsViewGenerationSelected>True</WebStackScaffolding_IsViewGenerationSelected>
-    <NameOfLastUsedPublishProfile>C:\Users\RajeshM\Desktop\cldv part 2\EventSystem\Properties\PublishProfiles\eventsystemst10259834 - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\RajeshM\Documents\cldv6211-part-2-ST10259834-Aaryan-Makan\EventSystem\Properties\PublishProfiles\eventsystemst10259834 - Web Deploy1.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

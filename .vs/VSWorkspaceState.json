@@ -2,9 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\EventSystem",
+    "\\EventSystem\\Models",
     "\\EventSystem\\Views",
     "\\EventSystem\\Views\\Booking"
   ],
-  "SelectedNode": "\\EventSystem\\Views\\Booking\\Create.cshtml",
+  "SelectedNode": "\\EventSystem\\Models\\Event.cs",
   "PreviewInSolutionExplorer": false
 }

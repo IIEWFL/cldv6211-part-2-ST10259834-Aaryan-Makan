@@ -2,6 +2,28 @@ using EventSystem.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 
+
+// Code attribution
+// This resource was referenced for educational material
+// https://www.freecodecamp.org/
+// FreeCodeCamp - Offers free coding tutorials, projects, and certifications for web development and programming
+
+// Code attribution
+// This resource was referenced for educational material
+// https://developer.mozilla.org/en-US/
+// MDN Web Docs - Provides in-depth documentation and tutorials for web technologies like HTML, CSS, and JavaScript
+
+// Code attribution
+// This resource was referenced for educational material
+// https://www.codecademy.com/
+// Codecademy - Features interactive coding lessons for beginners to advanced learners in various programming languages
+
+// Code attribution
+// This resource was referenced for educational material
+// https://www.geeksforgeeks.org/
+// GeeksforGeeks - Delivers tutorials, coding problems, and articles on programming, algorithms, and data structures
+
+
 namespace EventSystem
 {
     public class Program
