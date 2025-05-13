@@ -1,0 +1,45 @@
+﻿@model IEnumerable<EventSystem.Models.BookingView>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Bookings</h1>
+
+<!-- 🔍 Search form with instructions -->
+<form asp-controller="Booking" asp-action="Index" method="get">
+    <p>
+        🔍 You can search by Event Name, Venue Name, or Venue ID:
+        <input type="text" name="searchString" value="@Context.Request.Query["searchString"]" />
+        <input type="submit" value="Search" />
+    </p>
+</form>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.First().BookingDate)</th>
+            <th>@Html.DisplayNameFor(model => model.VenueName)</th>
+            <th>@Html.DisplayNameFor(model => model.EventName)</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.BookingDate)</td>
+                <td>@Html.DisplayFor(modelItem => item.EventName)</td>
+                <td>@Html.DisplayFor(modelItem => item.VenueName)</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.BookingId">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.BookingId">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.BookingId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
